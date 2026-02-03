@@ -16,7 +16,7 @@ A Java Student Management System for storing and managing student records.
 **StudentManagementSystem.java** → Main program with menu-driven CRUD operations.
 ## Features 
 - Add new students
-- - View student details by ID
-- - Update student information
-- - Delete student records
-- - Display all students
+- View student details by ID
+- Update student information
+- Delete student records
+- Display all students
