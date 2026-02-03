@@ -5,7 +5,7 @@ DZT ID:DZ/2026/732470
 
 Domain:Java Programming
 
-Assignment:Student Management System
+Assignment(Minor project):Student Management System
 
 Create a simple console-based Student Management System where you can perform basic operations like adding, viewing, updating, and deleting student records.
 
